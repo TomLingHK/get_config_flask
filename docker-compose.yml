@@ -1,5 +1,5 @@
 services:
-  scraper:
+  reader:
     build: 
       context: .
       dockerfile: Dockerfile
